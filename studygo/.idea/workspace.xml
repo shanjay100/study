@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa45fa03-dcd5-46c8-9f88-16efbddaa211" name="Default Changelist" comment="" />
+    <list default="true" id="aa45fa03-dcd5-46c8-9f88-16efbddaa211" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/11if/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/12for/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,15 +23,23 @@
     </option>
   </component>
   <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YyROlCdee2LZduzPRiWm1wUtsJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
@@ -97,6 +110,7 @@
       <workItem from="1583913939650" duration="5743000" />
       <workItem from="1583993574972" duration="9384000" />
       <workItem from="1584079901958" duration="11163000" />
+      <workItem from="1584353077881" duration="2008000" />
     </task>
     <servers />
   </component>
@@ -104,10 +118,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2162" y="227" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584090332787">
+    <state x="2162" y="227" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584354298799">
       <screen x="1366" y="-95" width="1920" height="1040" />
     </state>
-    <state x="2162" y="227" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1584090332787" />
+    <state x="2162" y="227" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1584354298799" />
     <state x="2006" y="151" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583995556161">
       <screen x="1366" y="-95" width="1920" height="1040" />
     </state>
