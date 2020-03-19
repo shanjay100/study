@@ -9,15 +9,15 @@ func main()  {
 	a :=  [5]int{1, 3, 5, 7, 8}
 	b := 0
 
-	for i := 0; i < len(a); i++ { //遍历数组a的所有元素
+	for i := 0; i < len(a); i++ { //遍历数组a的所有元素（取出）
 			b += a[i]			  //b = a[0] + ... + a[4]
 		}
 	fmt.Println(b)
 
 	//找出数组中和为指定值的两个元素的下标
 	//比如从数组[1, 3, 5, 7, 8]中找出和为8的两个元素的下标分别为(0,3)和(1,2)。
-	for i, _ := range a{
-		for l := i+1; l < len(a); l++{
+	for i, _ := range a{ 						//用range方式遍历数组a,元素缺省（取出）
+		for l := i+1; l < len(a); l++{			//l是i的下一个元素标识
 			if a[i] + a[l] == 8{
 				fmt.Printf("(%d, %d)", i, l)
 			}
