@@ -31,7 +31,6 @@ func main()  {
 		}
 	}
 	return
-	//标签
-breakTag:
+breakTag: 	//退出标签
 	fmt.Println("结束for循环")
 }
