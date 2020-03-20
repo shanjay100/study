@@ -8,11 +8,15 @@ func main()  {
 	//切片的定义
 	var s1 []int		//定义一个存放int类型元素的切片
 	var s2 []string		//定义一个存放string类型元素的切片
+	fmt.Println(s1 == nil) //true
+	fmt.Println(s2 == nil) //true
 	fmt.Println(s1, s2)
 	//初始化
 	s1 = []int{1, 2, 3}
 	s2 = []string{"泉州", "厦门", "福州"}
 	fmt.Println(s1, s2)
+	fmt.Println(s1 == nil) //false
+	fmt.Println(s2 == nil) //false
 	//长度和容量
 	fmt.Printf("len(s1):%d, cap(s1):%d\n", len(s1), cap(s1))
 	fmt.Printf("len(s2):%d, cap(s2):%d\n", len(s2), cap(s2))
