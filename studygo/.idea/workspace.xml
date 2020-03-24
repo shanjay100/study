@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa45fa03-dcd5-46c8-9f88-16efbddaa211" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day02/09slice_append/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/10copy_slice/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/11slice_test/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/12slice_append/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/13pointer/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,6 +115,7 @@
       <workItem from="1584586058899" duration="5638000" />
       <workItem from="1584669803573" duration="3928000" />
       <workItem from="1584865379594" duration="3925000" />
+      <workItem from="1585027905942" duration="5703000" />
     </task>
     <servers />
   </component>
@@ -167,9 +167,9 @@
       <screen x="1366" y="-95" width="1920" height="1040" />
     </state>
     <state x="1700" y="24" key="new project wizard/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1583913464947" />
-    <state x="1989" y="130" width="672" height="678" key="search.everywhere.popup" timestamp="1584598104320">
+    <state x="1989" y="130" width="840" height="678" key="search.everywhere.popup" timestamp="1585045068584">
       <screen x="1366" y="-95" width="1920" height="1040" />
     </state>
-    <state x="1989" y="130" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1584598104320" />
+    <state x="1989" y="130" width="840" height="678" key="search.everywhere.popup/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1585045068584" />
   </component>
 </project>
