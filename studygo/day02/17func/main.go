@@ -22,7 +22,7 @@ func f1(x int, y int) {
 
 //没有参数没有返回值
 func f2()  {
-	fmt.Println("f2")
+	fmt.Print("f2")
 }
 
 //没有参数但有返回值
@@ -43,12 +43,17 @@ func f5() (int, string)  {
 	return 1, "沙河"
 }
 
-//参数类型简写:当参数中
-func f6(x, y int) int  {
-
+//参数类型简写
+//当参数中连续多个参数的类型一致时，我们可以将非最后一个参数的类型省略
+func f6(x, y, z int, m, n string, i, j bool) int  {
+	return x + y
 }
 
-func main()  {
-	r := sum(1, 2)
-	fmt.Println(r)
+//可变长参数
+//可表长参数必选放在函数参数的最后
+func f7(x string, y ...int)  {
+	fmt.Println(x)
+	fmt.Println(y) //y的类型是slice，[]int
 }
+
+//Go语言中函数没有默认参数这个概念
