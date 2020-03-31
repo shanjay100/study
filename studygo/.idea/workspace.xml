@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa45fa03-dcd5-46c8-9f88-16efbddaa211" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day03/02homework/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/03func/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/04defer/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/05defer_return/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/06global_var/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/07func_type/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/08niming_func/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/09bibao/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/10biyao2/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,6 +122,7 @@
       <workItem from="1585205784523" duration="2991000" />
       <workItem from="1585288909466" duration="5961000" />
       <workItem from="1585550228708" duration="6737000" />
+      <workItem from="1585634191062" duration="7062000" />
     </task>
     <servers />
   </component>
