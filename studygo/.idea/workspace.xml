@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa45fa03-dcd5-46c8-9f88-16efbddaa211" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day03/16homework/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day03/15fmt/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day03/15fmt/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02/14map/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day02/14map/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day03/16homework/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day03/16homework/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,6 +126,7 @@
       <workItem from="1586240832506" duration="5135000" />
       <workItem from="1586331548337" duration="2461000" />
       <workItem from="1586497557081" duration="10647000" />
+      <workItem from="1586675848156" duration="4778000" />
     </task>
     <servers />
   </component>
@@ -181,9 +182,9 @@
       <screen x="1366" y="-95" width="1920" height="1040" />
     </state>
     <state x="1700" y="24" key="new project wizard/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1583913464947" />
-    <state x="1989" y="130" width="840" height="678" key="search.everywhere.popup" timestamp="1586498308679">
+    <state x="1989" y="130" width="840" height="678" key="search.everywhere.popup" timestamp="1586677245610">
       <screen x="1366" y="-95" width="1920" height="1040" />
     </state>
-    <state x="1989" y="130" width="840" height="678" key="search.everywhere.popup/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1586498308679" />
+    <state x="1989" y="130" width="840" height="678" key="search.everywhere.popup/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1586677245610" />
   </component>
 </project>

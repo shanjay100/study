@@ -11,6 +11,7 @@ func main()  {
 	m1["理想"] = 18
 	m1["现实"] = 35
 
+
 	fmt.Println(m1)
 	fmt.Println(m1["理想"])
 	fmt.Println(m1["今天"]) //如果不存在这个key，返回对应类型的0值
