@@ -9,7 +9,7 @@ import "fmt"
 //上台阶的面试题
 //n个台阶，一次可以走一步，也可以走两步，有多少种走法
 
-func taijie(n uint64) uint64 {
+func taiJie(n uint64) uint64 {
 	if n == 1{
 		//如果只有一个台阶，只有一种走法
 		return 1
@@ -18,7 +18,7 @@ func taijie(n uint64) uint64 {
 		//如果剩余两个台阶，有两种走法
 		return 2
 	}
-	return taijie(n - 1) + taijie(n - 2)
+	return taiJie(n - 1) + taiJie(n - 2)
 }
 
 func f(n uint64)  uint64{
@@ -31,6 +31,6 @@ func f(n uint64)  uint64{
 func main()  {
 	//ret := f(1)
 	//fmt.Println(ret)
-	ret := taijie(4)
+	ret := taiJie(4)
 	fmt.Println(ret)
 }
