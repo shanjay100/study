@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa45fa03-dcd5-46c8-9f88-16efbddaa211" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day04/10methon_demo/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/11struct_wenti/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/12sms/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/13struct_anonymous/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/14struct_nest/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/15struct_jicheng/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day04/09method_demo/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day04/09method_demo/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,6 +136,9 @@
       <workItem from="1587102787434" duration="846000" />
       <workItem from="1587362742789" duration="2796000" />
       <workItem from="1587536223669" duration="3403000" />
+      <workItem from="1587621844251" duration="1363000" />
+      <workItem from="1587974579596" duration="2862000" />
+      <workItem from="1588054453511" duration="9571000" />
     </task>
     <servers />
   </component>
@@ -192,9 +198,9 @@
       <screen x="1366" y="-95" width="1920" height="1040" />
     </state>
     <state x="1700" y="24" key="new project wizard/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1583913464947" />
-    <state x="1989" y="130" width="840" height="678" key="search.everywhere.popup" timestamp="1586771049621">
+    <state x="1989" y="130" width="840" height="678" key="search.everywhere.popup" timestamp="1588057922074">
       <screen x="1366" y="-95" width="1920" height="1040" />
     </state>
-    <state x="1989" y="130" width="840" height="678" key="search.everywhere.popup/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1586771049621" />
+    <state x="1989" y="130" width="840" height="678" key="search.everywhere.popup/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1588057922074" />
   </component>
 </project>
