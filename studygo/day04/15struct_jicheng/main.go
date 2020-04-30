@@ -32,5 +32,5 @@ func main()  {
 	}
 	fmt.Println(d1)
 	d1.wang()
-	d1.move()
+	d1.move() //为什么
 }
