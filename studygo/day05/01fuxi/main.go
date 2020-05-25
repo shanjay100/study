@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"encoding/json"
+	"fmt"
+)
 
 //复习结构体
 
@@ -65,4 +68,37 @@ func main()  {
 	fmt.Println(p1.c)
 	p1.fangJia()
 	fmt.Println(p1.c)
+
+	//结构体嵌套
+	type addr struct {
+		province string
+		city string
+	}
+	type student struct {
+		name string
+		address addr //嵌套别的结构体
+		addr //匿名嵌套，就使用类型做名称
+	}
+
+	type point struct {
+		X int `json:"zhoulin"`
+		Y int `json:"baodelu"`
+	}
+
+	p10 := point{100, 200}
+	//序列化
+	b, err := json.Marshal(p10)
+	//如果出错了
+	if err != nil {
+		fmt.Printf("marshal failed, err:%v\n", err)
+	}
+	fmt.Println(string(b))
+	//反序列化：由字符串 --> Go中的结构体变量
+	str1 := `{"zhoulin":10010,"baodelu":10086}`
+	var p20 point
+	err = json.Unmarshal([]byte(str1), &p20)
+	if err != nil {
+		fmt.Printf("unmarshal failed, err:%v\n", err)
+	}
+	fmt.Println(p20)
 }
