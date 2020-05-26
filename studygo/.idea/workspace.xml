@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa45fa03-dcd5-46c8-9f88-16efbddaa211" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/day05/02homework_sms/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/02homework_sms/student_mgr.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/03interface/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/04interface/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05/01fuxi/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day05/01fuxi/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,6 +141,8 @@
       <workItem from="1588143237278" duration="12307000" />
       <workItem from="1588238623219" duration="1319000" />
       <workItem from="1590387393094" duration="6039000" />
+      <workItem from="1590479830624" duration="4093000" />
+      <workItem from="1590483943007" duration="3312000" />
     </task>
     <servers />
   </component>
@@ -153,10 +158,10 @@
       <screen x="1366" y="-95" width="1920" height="1040" />
     </state>
     <state x="1817" y="0" key="#Notifications/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1586934435716" />
-    <state x="2162" y="227" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584354298799">
+    <state x="2162" y="227" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590483968412">
       <screen x="1366" y="-95" width="1920" height="1040" />
     </state>
-    <state x="2162" y="227" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1584354298799" />
+    <state x="2162" y="227" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1590483968412" />
     <state x="2006" y="151" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583995556161">
       <screen x="1366" y="-95" width="1920" height="1040" />
     </state>
@@ -189,10 +194,10 @@
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1366.728/1366.-95.1920.1040@0.0.1366.728" timestamp="1584010045781" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1584436273719" />
-    <state x="1827" y="54" key="SettingsEditor" timestamp="1590394376475">
+    <state x="1827" y="54" key="SettingsEditor" timestamp="1590480136541">
       <screen x="1366" y="-95" width="1920" height="1040" />
     </state>
-    <state x="1827" y="54" key="SettingsEditor/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1590394376475" />
+    <state x="1827" y="54" key="SettingsEditor/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1590480136541" />
     <state x="1700" y="24" key="new project wizard" timestamp="1583913464947">
       <screen x="1366" y="-95" width="1920" height="1040" />
     </state>
