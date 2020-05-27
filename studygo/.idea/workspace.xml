@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa45fa03-dcd5-46c8-9f88-16efbddaa211" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day05/02homework_sms/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/02homework_sms/student_mgr.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/03interface/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/04interface/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/05interface/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/06interface_pointer/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -143,6 +141,7 @@
       <workItem from="1590387393094" duration="6039000" />
       <workItem from="1590479830624" duration="4093000" />
       <workItem from="1590483943007" duration="3312000" />
+      <workItem from="1590560011961" duration="5424000" />
     </task>
     <servers />
   </component>
