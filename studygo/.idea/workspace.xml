@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa45fa03-dcd5-46c8-9f88-16efbddaa211" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day05/05interface/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/06interface_pointer/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/07struct_interface/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/08null_interface/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/09type_assign/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/10calc/calc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/11import_demo/import.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/06interface_pointer/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day05/06interface_pointer/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,6 +146,10 @@
       <workItem from="1590479830624" duration="4093000" />
       <workItem from="1590483943007" duration="3312000" />
       <workItem from="1590560011961" duration="5424000" />
+      <workItem from="1591086501879" duration="2306000" />
+      <workItem from="1591252687005" duration="4770000" />
+      <workItem from="1591344059365" duration="1317000" />
+      <workItem from="1591684833613" duration="5126000" />
     </task>
     <servers />
   </component>
@@ -157,10 +165,10 @@
       <screen x="1366" y="-95" width="1920" height="1040" />
     </state>
     <state x="1817" y="0" key="#Notifications/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1586934435716" />
-    <state x="2162" y="227" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590483968412">
+    <state x="2162" y="227" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591252745116">
       <screen x="1366" y="-95" width="1920" height="1040" />
     </state>
-    <state x="2162" y="227" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1590483968412" />
+    <state x="2162" y="227" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1591252745116" />
     <state x="2006" y="151" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583995556161">
       <screen x="1366" y="-95" width="1920" height="1040" />
     </state>
@@ -201,9 +209,9 @@
       <screen x="1366" y="-95" width="1920" height="1040" />
     </state>
     <state x="1700" y="24" key="new project wizard/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1583913464947" />
-    <state x="1989" y="130" width="840" height="678" key="search.everywhere.popup" timestamp="1588143668940">
+    <state x="1989" y="130" width="840" height="678" key="search.everywhere.popup" timestamp="1591685459867">
       <screen x="1366" y="-95" width="1920" height="1040" />
     </state>
-    <state x="1989" y="130" width="840" height="678" key="search.everywhere.popup/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1588143668940" />
+    <state x="1989" y="130" width="840" height="678" key="search.everywhere.popup/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1591685459867" />
   </component>
 </project>
