@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa45fa03-dcd5-46c8-9f88-16efbddaa211" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day05/12file_open/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/13file_write/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/14get_input/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/15homework/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/01fuxi/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/02file_open/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/02file_open/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day06/02file_open/02file_open.exe" beforeDir="false" afterPath="$PROJECT_DIR$/day06/02file_open/02file_open.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day06/02file_open/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day06/02file_open/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,6 +149,8 @@
       <workItem from="1591684833613" duration="5126000" />
       <workItem from="1591754179953" duration="9092000" />
       <workItem from="1591939690190" duration="6296000" />
+      <workItem from="1592202510265" duration="5458000" />
+      <workItem from="1592636924170" duration="81000" />
     </task>
     <servers />
   </component>
