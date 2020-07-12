@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa45fa03-dcd5-46c8-9f88-16efbddaa211" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day06/02file_open/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/04log_demo/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/06runtime_demo/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/mylogger/console.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/mylogger/file.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/mylogger/mylogger.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day06/02file_open/02file_open.exe" beforeDir="false" afterPath="$PROJECT_DIR$/day06/02file_open/02file_open.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day06/02file_open/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day06/02file_open/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day06/02file_open/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day06/02file_open/test.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,13 +26,20 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="C:\Go" />
+  <component name="GOROOT" path="/usr/local/go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1YyROlCdee2LZduzPRiWm1wUtsJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="添加" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,8 +53,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -151,6 +166,10 @@
       <workItem from="1591939690190" duration="6296000" />
       <workItem from="1592202510265" duration="5458000" />
       <workItem from="1592636924170" duration="81000" />
+      <workItem from="1594364156102" duration="346000" />
+      <workItem from="1594365496135" duration="532000" />
+      <workItem from="1594464057911" duration="6625000" />
+      <workItem from="1594537075061" duration="4303000" />
     </task>
     <servers />
   </component>
@@ -158,6 +177,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="320" y="128" key="#GOROOT" timestamp="1594364186271">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="128" key="#GOROOT/0.0.1440.900@0.0.1440.900" timestamp="1594364186271" />
     <state x="1817" y="0" key="#Inspections" timestamp="1586505529325">
       <screen x="1366" y="-95" width="1920" height="1040" />
     </state>
@@ -170,46 +193,24 @@
       <screen x="1366" y="-95" width="1920" height="1040" />
     </state>
     <state x="2162" y="227" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1591252745116" />
-    <state x="2006" y="151" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583995556161">
-      <screen x="1366" y="-95" width="1920" height="1040" />
+    <state x="252" y="254" key="RollbackChangesDialog" timestamp="1594465927388">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="2006" y="151" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1583995556161" />
-    <state x="2044" y="59" key="#go_build_helloworld.go_(1)" timestamp="1583915053934">
-      <screen x="1366" y="-95" width="1920" height="1040" />
-    </state>
-    <state x="2044" y="59" key="#go_build_helloworld.go_(1)/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1583915053934" />
-    <state x="2105" y="166" key="FileChooserDialogImpl" timestamp="1583913462096">
-      <screen x="1366" y="-95" width="1920" height="1040" />
-    </state>
-    <state x="2105" y="166" key="FileChooserDialogImpl/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1583913462096" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1584436273719">
-      <screen x="1366" y="-95" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-95.1920.1040@0.0.1366.728" timestamp="1584010045781" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1584436273719" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1584436273719">
-      <screen x="1366" y="-95" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1366.728/1366.-95.1920.1040@0.0.1366.728" timestamp="1584010045780" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1584436273719" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1584436273719">
-      <screen x="1366" y="-95" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1366.728/1366.-95.1920.1040@0.0.1366.728" timestamp="1584010045780" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1584436273719" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1584436273719">
-      <screen x="1366" y="-95" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1366.728/1366.-95.1920.1040@0.0.1366.728" timestamp="1584010045781" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1584436273719" />
-    <state x="1827" y="54" key="SettingsEditor" timestamp="1590480136541">
-      <screen x="1366" y="-95" width="1920" height="1040" />
+    <state x="252" y="254" key="RollbackChangesDialog/0.23.1440.797@0.23.1440.797" timestamp="1594465927388" />
+    <state x="346" y="98" key="SettingsEditor" timestamp="1594537343455">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="1827" y="54" key="SettingsEditor/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1590480136541" />
-    <state x="1700" y="24" key="new project wizard" timestamp="1583913464947">
-      <screen x="1366" y="-95" width="1920" height="1040" />
+    <state x="346" y="85" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1594365766797" />
+    <state x="346" y="98" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1594537343455" />
+    <state x="376" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1594537074771">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="1700" y="24" key="new project wizard/0.0.1366.728/1366.-95.1920.1040@1366.-95.1920.1040" timestamp="1583913464947" />
+    <state x="376" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1594537074771" />
+    <state x="492" y="175" width="672" height="677" key="run.anything.popup" timestamp="1594464651497">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="492" y="175" width="672" height="677" key="run.anything.popup/0.23.1440.797@0.23.1440.797" timestamp="1594464651497" />
     <state x="1989" y="130" width="840" height="678" key="search.everywhere.popup" timestamp="1591781447506">
       <screen x="1366" y="-95" width="1920" height="1040" />
     </state>

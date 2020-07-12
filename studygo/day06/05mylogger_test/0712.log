@@ -1,0 +1,528 @@
+[2020-07-12 16:07:04] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:07:04] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:07:04] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:07:04] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:07:06] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:07:06] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:07:06] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:07:06] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:07:08] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:07:08] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:07:08] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:07:08] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:07:10] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:07:10] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:07:10] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:07:10] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:07:12] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:07:12] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:07:12] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:07:12] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:07:14] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:07:14] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:07:14] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:07:14] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:07:16] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:07:16] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:07:16] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:07:16] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:07:18] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:07:18] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:07:18] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:07:18] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:07:20] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:07:20] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:07:20] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:07:20] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:07:22] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:07:22] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:07:22] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:07:22] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:07:24] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:07:24] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:07:24] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:07:24] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:07:26] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:07:26] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:07:26] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:07:26] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:07:28] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:07:28] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:07:28] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:07:28] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:07:30] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:07:30] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:07:30] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:07:30] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:07:32] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:07:32] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:07:32] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:07:32] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:07:34] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:07:34] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:07:34] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:07:34] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:07:36] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:07:36] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:07:36] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:07:36] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:07:38] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:07:38] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:07:38] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:07:38] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:07:40] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:07:40] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:07:40] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:07:40] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:07:42] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:07:42] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:07:42] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:07:42] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:07:44] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:07:44] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:07:44] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:07:44] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:07:46] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:07:46] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:07:46] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:07:46] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:07:48] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:07:48] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:07:48] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:07:48] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:07:50] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:07:50] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:07:50] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:07:50] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:07:52] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:07:52] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:07:52] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:07:52] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:07:54] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:07:54] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:07:54] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:07:54] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:07:56] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:07:56] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:07:56] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:07:56] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:07:58] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:07:58] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:07:58] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:07:58] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:08:00] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:08:00] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:08:00] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:08:00] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:08:02] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:08:02] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:08:02] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:08:02] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:08:04] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:08:04] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:08:04] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:08:04] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:08:06] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:08:06] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:08:06] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:08:06] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:08:08] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:08:08] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:08:08] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:08:08] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:08:10] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:08:10] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:08:10] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:08:10] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:08:12] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:08:12] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:08:12] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:08:12] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:08:14] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:08:14] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:08:14] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:08:14] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:08:16] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:08:16] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:08:16] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:08:16] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:08:18] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:08:18] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:08:18] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:08:18] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:08:20] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:08:20] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:08:20] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:08:20] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:08:22] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:08:22] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:08:22] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:08:22] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:08:24] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:08:24] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:08:24] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:08:24] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:08:26] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:08:26] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:08:26] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:08:26] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:08:28] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:08:28] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:08:28] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:08:28] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:08:30] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:08:30] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:08:30] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:08:30] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:08:32] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:08:32] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:08:32] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:08:32] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:08:34] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:08:34] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:08:34] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:08:34] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:08:36] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:08:36] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:08:36] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:08:36] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:08:38] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:08:38] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:08:38] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:08:38] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:08:40] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:08:40] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:08:40] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:08:40] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:08:42] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:08:42] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:08:42] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:08:42] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:08:44] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:08:44] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:08:44] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:08:44] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:08:46] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:08:46] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:08:46] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:08:46] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:08:48] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:08:48] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:08:48] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:08:48] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:08:50] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:08:50] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:08:50] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:08:50] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:08:52] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:08:52] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:08:52] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:08:52] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:08:54] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:08:54] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:08:54] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:08:54] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:08:56] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:08:56] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:08:56] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:08:56] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:08:58] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:08:58] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:08:58] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:08:58] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:09:00] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:09:00] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:09:00] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:09:00] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:09:02] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:09:02] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:09:02] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:09:02] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:09:04] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:09:04] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:09:04] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:09:04] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:09:06] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:09:06] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:09:06] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:09:06] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:09:08] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:09:08] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:09:08] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:09:08] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:09:10] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:09:10] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:09:10] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:09:10] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:09:12] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:09:12] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:09:12] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:09:12] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:09:14] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:09:14] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:09:14] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:09:14] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:09:16] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:09:16] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:09:16] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:09:16] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:09:18] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:09:18] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:09:18] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:09:18] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:09:20] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:09:20] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:09:20] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:09:20] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:09:22] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:09:22] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:09:22] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:09:22] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:09:24] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:09:24] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:09:24] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:09:24] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:09:26] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:09:26] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:09:26] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:09:26] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:09:28] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:09:28] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:09:28] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:09:28] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:09:30] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:09:30] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:09:30] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:09:30] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:09:32] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:09:32] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:09:32] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:09:32] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:09:34] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:09:34] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:09:34] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:09:34] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:09:36] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:09:36] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:09:36] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:09:36] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:09:38] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:09:38] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:09:38] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:09:38] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:09:40] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:09:40] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:09:40] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:09:40] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:09:42] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:09:42] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:09:42] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:09:42] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:09:44] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:09:44] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:09:44] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:09:44] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:09:46] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:09:46] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:09:46] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:09:46] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:09:48] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:09:48] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:09:48] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:09:48] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:09:50] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:09:50] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:09:50] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:09:50] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:09:52] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:09:52] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:09:52] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:09:52] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:09:54] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:09:54] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:09:54] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:09:54] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:09:56] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:09:56] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:09:56] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:09:56] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:09:58] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:09:58] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:09:58] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:09:58] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:10:00] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:10:00] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:10:00] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:10:00] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:10:02] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:10:02] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:10:02] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:10:02] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:10:04] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:10:04] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:10:04] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:10:04] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:10:06] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:10:06] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:10:06] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:10:06] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:10:08] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:10:08] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:10:08] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:10:08] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:10:10] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:10:10] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:10:10] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:10:10] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:10:12] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:10:12] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:10:12] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:10:12] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:10:14] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:10:14] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:10:14] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:10:14] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:10:16] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:10:16] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:10:16] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:10:16] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:10:18] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:10:18] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:10:18] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:10:18] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:10:20] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:10:20] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:10:20] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:10:20] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:10:22] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:10:22] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:10:22] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:10:22] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:10:24] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:10:24] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:10:24] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:10:24] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:10:26] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:10:26] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:10:26] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:10:26] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:10:28] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:10:28] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:10:28] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:10:28] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:10:30] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:10:30] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:10:30] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:10:30] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:10:32] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:10:32] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:10:32] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:10:32] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:10:34] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:10:34] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:10:34] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:10:34] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:10:36] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:10:36] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:10:36] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:10:36] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:10:38] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:10:38] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:10:38] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:10:38] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:10:40] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:10:40] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:10:40] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:10:40] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:10:42] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:10:42] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:10:42] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:10:42] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:10:44] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:10:44] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:10:44] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:10:44] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:10:46] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:10:46] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:10:46] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:10:46] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:10:48] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:10:48] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:10:48] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:10:48] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:10:50] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:10:50] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:10:50] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:10:50] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:10:52] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:10:52] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:10:52] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:10:52] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:10:54] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:10:54] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:10:54] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:10:54] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:10:56] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:10:56] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:10:56] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:10:56] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:10:58] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:10:58] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:10:58] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:10:58] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:11:00] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:11:00] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:11:00] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:11:00] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:11:02] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:11:02] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:11:02] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:11:02] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:11:04] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:11:04] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:11:04] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:11:04] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:11:06] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:11:06] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:11:06] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:11:06] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:11:08] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:11:08] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:11:08] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:11:08] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:11:10] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:11:10] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:11:10] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:11:10] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:11:12] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:11:12] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:11:12] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:11:12] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:11:14] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:11:14] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:11:14] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:11:14] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:11:16] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:11:16] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:11:16] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:11:16] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:11:18] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:11:18] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:11:18] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:11:18] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:11:20] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:11:20] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:11:20] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:11:20] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:11:22] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:11:22] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:11:22] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:11:22] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:11:24] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:11:24] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:11:24] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:11:24] [Fatal] [main.go:main:20]这是一条Fatal日志
+[2020-07-12 16:11:26] [Info] [main.go:main:15]这是一条Info日志
+[2020-07-12 16:11:26] [Warning] [main.go:main:16]这是一条Warning日志
+[2020-07-12 16:11:26] [Error] [main.go:main:19]这是一条Error日志, id:10010, name:理想
+[2020-07-12 16:11:26] [Fatal] [main.go:main:20]这是一条Fatal日志
